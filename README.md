@@ -1,4 +1,4 @@
-# TP5 – IoT System with MQTT + DHT22 + LCD + + Led + PIR + Cloud Integration
+# TP5 – IoT System with MQTT + DHT22 + LCD + ESP32 + Led + PIR + Cloud Integration
 
 ## Objective
 
